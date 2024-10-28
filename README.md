@@ -22,10 +22,11 @@ Pour créer et lancer les conteneurs pour l'application PHP, la base de données
 
 ```bash
 docker-compose up -d --build
+```
 
 ## Accéder à l'application web
 
-Application accessible via http://localhost:8080
+Application accessible via [http://localhost:8080](http://localhost:8080)
 
 ## Structure du projet
 
