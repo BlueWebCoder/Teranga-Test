@@ -10,8 +10,8 @@ Avant de commencer, assurez-vous d'avoir installé Docker sur votre machine. Si 
 
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
-   git clone https://github.com/votre-utilisateur/portail-interactif-teranga.git
-   cd portail-interactif-teranga
+   git clone https://github.com/BlueWebCoder/Teranga-test.git
+   cd Teranga-test/feature
 
 
 2. Assurez-vous que le fichier `init.sql` est présent à la racine du projet pour l'initialisation de la base de données.
