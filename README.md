@@ -28,6 +28,8 @@ docker-compose up -d --build
 
 Application accessible via [http://localhost:8080](http://localhost:8080)
 
+Attention, attendez bien 1 minute que les images aient bien toutes demarées afin d'éviter une erreur de base de données.
+
 ## Structure du projet
 
 - **/config** : Contient le fichier de configuration de la base de données.
