@@ -25,7 +25,7 @@ docker-compose up -d --build
 
 ## Accéder à l'application web
 
-L'application est accessible via http://localhost:8080
+L\'application est accessible via http://localhost:8080
 
 ## Structure du projet
 
