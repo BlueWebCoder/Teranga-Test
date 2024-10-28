@@ -1,4 +1,3 @@
-# Teranga-test
 # Portail Interactif Famille-Résident - Teranga
 
 Ce projet est un portail interactif destiné à améliorer la communication entre les résidents des EHPAD et leurs familles. Il permet aux familles de suivre les activités de leurs proches au sein de l'établissement, d'accéder à des photos et de rester informées des événements marquants de leur vie quotidienne.
